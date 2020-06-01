@@ -4,6 +4,6 @@ git:
     depth: false
 script: ./ci.sh
 notifications:
-    email:
+    email: james.s.featherstone@gmail.com
     #enter your email address below
         - 
